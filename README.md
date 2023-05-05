@@ -1,7 +1,7 @@
-[![MasterHead ](https://media.licdn.com/dms/image/D4E16AQFPETKPHTar_Q/profile-displaybackgroundimage-shrink_350_1400/0/1683182942164?e=1688601600&v=beta&t=dSpJTqRE8TlOQK5IlWUNJFuvi3NOKGuC2D4przM47PM)](https://rishavchanda.io)
+[![MasterHead ](https://media.licdn.com/dms/image/D4E16AQFeOP4l978TZA/profile-displaybackgroundimage-shrink_350_1400/0/1683286764619?e=1688601600&v=beta&t=4fQZ6au3N3szuJzp5WRGhOvARJSDbT-jcRIhTi0YONQ)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jitedra Kumar Chaudhary</h1>
 <h3>I am a full stack flutter developer.<br> I can build beautiful and fully functional app for you.<br> I can build E commerce,chat,medical,educational etc, kind of apps.</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.licdn.com/dms/image/D4E22AQG5uThM9yqq-Q/feedshare-shrink_800/0/1682659553439?e=1685577600&v=beta&t=ilJhRcK99Vjrd3prEIDF8XkDZc3srdazIQaM8H20km](https://media.licdn.com/dms/image/D4E16AQFPETKPHTar_Q/profile-displaybackgroundimage-shrink_350_1400/0/1683182942164?e=1688601600&v=beta&t=dSpJTqRE8TlOQK5IlWUNJFuvi3NOKGuC2D4przM47PM)k">
+<img align="right" alt="Coding" width="400" src="[https://media.licdn.com/dms/image/D4E16AQFeOP4l978TZA/profile-displaybackgroundimage-shrink_350_1400/0/1683286764619?e=1688601600&v=beta&t=4fQZ6au3N3szuJzp5WRGhOvARJSDbT-jcRIhTi0YONQ]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendrakumarchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrakumarchaudhary" /> </p>
 
