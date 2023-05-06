@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **flutter**
 
-- 📫 How to reach me **jitendrakumarchauy@gmail.cofm**
+- 📫 How to reach me **me.jitendrachaudhary@gmail.cofm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
