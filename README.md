@@ -1,5 +1,5 @@
 [![MasterHead ](https://media.licdn.com/dms/image/D4E16AQFbzNe4rhMSKA/profile-displaybackgroundimage-shrink_350_1400/0/1683387884563?e=1688601600&v=beta&t=Z7agWBjmTDk9noL1lkWmh18JlDlnhnErS_TUv2dm_kg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Jitedra Kumar Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Jitendra Kumar Chaudhary</h1>
 <h3>I am a full stack flutter developer.<br> I can build beautiful and fully functional app for you.<br> I can build E commerce,chat,medical,educational etc, kind of apps.</h3>
 <img align="right" alt="Coding" width="400" src="[https://media.licdn.com/dms/image/D4E16AQFeOP4l978TZA/profile-displaybackgroundimage-shrink_350_1400/0/1683286764619?e=1688601600&v=beta&t=4fQZ6au3N3szuJzp5WRGhOvARJSDbT-jcRIhTi0YONQ]">
 
