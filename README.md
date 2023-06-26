@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **me.jitendrachaudhary@gmail.cofm**
+- 📫 How to reach me **me.jitendrachaudhary@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
